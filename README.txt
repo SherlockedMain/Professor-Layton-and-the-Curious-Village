@@ -91,7 +91,7 @@
 
 Professor Layton and the Curious Village - Arabic Translation
 Version 1.0 - November 2026
-Translation and ROM hacking: Ayoub Shakri
+Translation and ROM hacking: Ayoub Chakri
 
 
 ABOUT
