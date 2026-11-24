@@ -10,6 +10,8 @@
 
 </div>
 
+<p align="center"><img src="screenshots/title-screen.png" alt="Title screen" width="384"></p>
+
 ![Translated screens](screenshots/collage.png)
 
 <div dir="rtl">
